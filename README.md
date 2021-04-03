@@ -1,5 +1,7 @@
 # Test 
+```
 npm install @baha96/ckeditor5-custom-build --save
+```
 
 # CKEditor 5 editor generated with the online builder
 
