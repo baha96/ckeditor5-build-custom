@@ -1,5 +1,5 @@
 {
-  "name": "@baha96/ckeditor5-custom-build",
+  "name": "@ckeditor/gos24-ckeditor5-custom-build",
   "author": "baha96 <baha96.dev@gmail.com",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "version": "0.0.1",
