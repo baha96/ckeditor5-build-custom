@@ -4,6 +4,14 @@
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baha96/ckeditor5-build-custom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baha96/ckeditor5-build-custom/issues"
+  },
+  "homepage": "https://github.com/baha96/ckeditor5-build-custom",
   "private": false,
   "main": "./build/ckeditor.js",
   "devDependencies": {
