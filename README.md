@@ -1,6 +1,6 @@
 # Test 
 ```
-npm install @baha96/ckeditor5-custom-build --save
+npm i @baha96/ckeditor5-custom-classic-build --save
 ```
 
 # CKEditor 5 editor generated with the online builder
