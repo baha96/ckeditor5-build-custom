@@ -2,7 +2,7 @@
   "name": "@baha96/ckeditor5-custom-classic-build",
   "author": "baha96 <baha96.dev@gmail.com",
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "SEE LICENSE IN LICENSE.md",
   "repository": {
     "type": "git",
@@ -14,10 +14,8 @@
   "homepage": "https://github.com/baha96/ckeditor5-build-custom",
   "main": "./build/ckeditor.js",
   "devDependencies": {
-    "@ckeditor/ckeditor5-autoformat": "^27.0.0",
     "@ckeditor/ckeditor5-basic-styles": "^27.0.0",
     "@ckeditor/ckeditor5-block-quote": "^27.0.0",
-    "@ckeditor/ckeditor5-cloud-services": "^27.0.0",
     "@ckeditor/ckeditor5-dev-utils": "^24.4.2",
     "@ckeditor/ckeditor5-dev-webpack-plugin": "^24.4.2",
     "@ckeditor/ckeditor5-editor-classic": "^27.0.0",
